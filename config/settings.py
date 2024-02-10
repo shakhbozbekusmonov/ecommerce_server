@@ -29,6 +29,8 @@ INSTALLED_APPS = [
     # THIRD PARTY LIBRARIES
     "debug_toolbar",
     # LOCAL APPS
+    "store",
+    "tags",
 ]
 
 MIDDLEWARE = [

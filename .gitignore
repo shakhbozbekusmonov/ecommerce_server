@@ -3,9 +3,6 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-/store
-/tags
-
 # Caches
 *.sqlite3
 *.db
