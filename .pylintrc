@@ -1,0 +1,2 @@
+[MASTER]
+ignore = migrations, __pycache__
