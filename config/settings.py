@@ -31,6 +31,7 @@ INSTALLED_APPS = [
     # LOCAL APPS
     "store",
     "tags",
+    "likes",
 ]
 
 MIDDLEWARE = [
